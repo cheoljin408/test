@@ -8,5 +8,6 @@
 </head>
 <body>
 삭제페이지
+충돌 테스트
 </body>
 </html>
