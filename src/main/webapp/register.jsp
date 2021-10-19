@@ -8,5 +8,6 @@
 	</head>
 	<body>
 		회원가입
+		register.jsp 수정
 	</body>
 </html>
